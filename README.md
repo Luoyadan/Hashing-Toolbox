@@ -7,6 +7,6 @@ The compared methods includes:
 
 ## Data-dependent Hashing
 ###Unsupervised Methods
-* **Similarity Search in High Dimensions via Hashing (LSH)**  [Paper](http://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf)
+* **Iterative Quantization: A Procerustean Approach to Learning Binary Codes (ITQ)**  [Paper](http://slazebni.cs.illinois.edu/publications/cvpr11_small_code.pdf)
 
 ###Supervised Methods
