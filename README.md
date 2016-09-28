@@ -1,5 +1,4 @@
 # Hashing-Toolbox
-=======================================================================================================================
 This is a convenient hashing toolbox designed for comparing existing unsupervised and supervised hashing methods. 
 ********************************
 The compared methods includes:
