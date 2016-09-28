@@ -6,5 +6,7 @@ The compared methods includes:
 * **Similarity Search in High Dimensions via Hashing (LSH)**  [Paper](http://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf)
 
 ## Data-dependent Hashing
-####Unsupervised Methods
-####Supervised Methods
+###Unsupervised Methods
+* **Similarity Search in High Dimensions via Hashing (LSH)**  [Paper](http://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf)
+
+###Supervised Methods
